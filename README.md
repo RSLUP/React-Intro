@@ -1,9 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React-Intro
 
-## Install dependencies
+## To start project
 
-npm install
+1. Clone project
+2. Move to React-Intro directory using CMD.
+3. npm install
+4. npm start
 
-## Start project
-
-npm start
